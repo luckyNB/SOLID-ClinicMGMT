@@ -1,0 +1,10 @@
+[
+	{
+		"name": "Ram",
+		"id": 1,
+		"availability": "BOTH",
+		"amCount": 0,
+		"pmCount": 0,
+		"specialization": "War"
+	}
+]
